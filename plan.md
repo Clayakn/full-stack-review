@@ -29,7 +29,8 @@
             * login 
             * logout
         * Action type names (constants)
-
+            * USER_LOGIN
+            * USER_LOGOUT
 * Routes 
     * BrowserRouter 
     * / 
