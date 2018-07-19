@@ -46,6 +46,7 @@
         * POST
     * /api/profile 
         * GET 
+    * /auth/callback
     * auth 
         * Auth0 
 * Files 
@@ -100,4 +101,6 @@
     * DevTools
         * Network tab
 
- 
+## Words
+* scorch 
+
